@@ -1,7 +1,4 @@
 # CIFAR-10 Image Classification Using CNNs
-
-This notebook demonstrates image classification on the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
-
 ## Key Features
 
 1. **Dataset**: Uses the CIFAR-10 dataset containing images across 10 classes:
